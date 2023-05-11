@@ -12,12 +12,12 @@ writeMessage2 = "\nI am writing myself in a File 2\n\n\nfp = open(\"fileEg2\",\"
 # fpw.close()
 
 #Reading way1
-# with open("fileEg1.txt","r") as f:
+# with open("C:\Learn\Python\Python\May 2023\\fileEg1.txt","r") as f:
 #     message1=f.read()
 #     print(message1)
 
 #Readin way2
-# fpr = open("fileEg2","r")
+# fpr = open("C:\Learn\Python\Python\May 2023\\fileEg2","r")
 # message2=fpr.read()
 # print(message2)
 # fpr.close()

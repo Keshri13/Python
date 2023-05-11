@@ -1,0 +1,8 @@
+
+I am writing myself in a File 1
+
+
+with open("fileEg1.txt","w") as f:
+	f.write(writeMessage1)
+
+And I am Indian

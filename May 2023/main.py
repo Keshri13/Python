@@ -1,5 +1,5 @@
 # This is a sample Python script.
-import Operators
+import OperatorsEg
 import PackagesDemo
 
 # Press Shift+F10 to execute it or replace it with your code.

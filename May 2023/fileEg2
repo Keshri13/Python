@@ -1,0 +1,9 @@
+
+I am writing myself in a File 2
+
+
+fp = open("fileEg2","w")
+fp.write(writeMessage2)
+fp.close()
+
+And I am Rossi
